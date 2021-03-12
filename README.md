@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mubashirjamali101
+- 👀 I’m interested in Python, AI, ML, Web Development with Nodejs... 
+- 🌱 I’m currently doing a Complete Python Bootcamp 2021 on Udemy.
+- 💞️ I’m looking to collaborate on any project which is for beginner or somewhat intermediate level.
+- 📫 To reach me Email: mubashirjamali101@gmail.com & mubashirjamali@outlook.com.
