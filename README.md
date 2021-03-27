@@ -3,4 +3,4 @@
 - 🌱 I’m currently doing a Complete Python Bootcamp 2021 on Udemy.
 - 💞️ I’m looking to collaborate on any project which is for beginner or somewhat intermediate level.
 - 📫 To reach me Email: mubashirjamali101@gmail.com & mubashirjamali@outlook.com.
-- I have been coding since 6th Grade & I am very passionate about programming.
+- I am 17 & I am very passionate about programming.
