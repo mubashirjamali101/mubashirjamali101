@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mubashirjamali101
-- 👀 I’m interested in Python, AI, ML, Web Development with Nodejs... 
+- 👀 I’m interested in Python, AI, RUST programming language, Web Development with Nodejs... 
 - 💞️ I’m looking to collaborate on any project which is for beginner or somewhat intermediate level.
 - 📫 To reach me Email: mubashirjamali101@gmail.com & mubashirjamali@outlook.com.
 - I am 17 & I am very passionate about programming.
