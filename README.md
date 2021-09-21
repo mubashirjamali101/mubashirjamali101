@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @mubashirjamali101
-- 👀 I’m interested in Python, AI, RUST programming language, Web Development with Nodejs... 
-- 💞️ I’m looking to collaborate on any project which is for beginner or somewhat intermediate level.
-- 📫 To reach me Email: mubashirjamali101@gmail.com & mubashirjamali@outlook.com.
+- 👀 I’m have worked in Python, Django, Nodejs, Javascript (ES6+), HTML, CSS, reactjs, golang, and graphQL... 
+- 📫 To reach me, my site: mubashirjamali.ml & emails: mubashirjamali101@gmail.com & mubashirjamali@outlook.com.
