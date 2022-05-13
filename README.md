@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/mubashirjamali"><img src="https://api.daily.dev/devcards/2f1355c161d848fc8ab9eb6d8c650d26.png?r=8mm" width="400" alt="Mubashir Jamali's Dev Card"/></a>
+
 - 🔭 I’m currently working Fullstack with Nextjs and MariaDB
 - 🌱 I’m currently learning _safe_ Authentication, and Authorization.
 - 🤔 I’m looking for help with _safest_ way of authenticating and authorizing humans.
