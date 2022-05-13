@@ -1,6 +1,21 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/mubashirjamali"><img src="https://api.daily.dev/devcards/2f1355c161d848fc8ab9eb6d8c650d26.png?r=8mm" width="400" alt="Mubashir Jamali's Dev Card"/></a>
+<div align="left">
+  <a href="https://twitter.com/der_mubashir">
+    <img
+      src="https://img.shields.io/twitter/follow/der_mubashir?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://linkedin.com/in/mubashirjamali">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://app.daily.dev/mubashirjamali"><img src="https://api.daily.dev/devcards/2f1355c161d848fc8ab9eb6d8c650d26.png?r=6ur" width="400" alt="Mubashir Jamali's Dev Card"/></a>
+</div>
 
 - 🔭 I’m currently working Fullstack with Nextjs and MariaDB
 - 🌱 I’m currently learning _safe_ Authentication, and Authorization.
