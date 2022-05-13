@@ -14,7 +14,7 @@
     />
   </a>
 
-  <a href="https://app.daily.dev/mubashirjamali"><img src="https://api.daily.dev/devcards/2f1355c161d848fc8ab9eb6d8c650d26.png?r=6ur" width="400" alt="Mubashir Jamali's Dev Card"/></a>
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mubashirjamali101/mubashirjamali101/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 </div>
 
 - 🔭 I’m currently working Fullstack with Nextjs and MariaDB
