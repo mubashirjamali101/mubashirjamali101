@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <div align="left">
   <a href="https://twitter.com/der_mubashir">
@@ -13,13 +13,21 @@
       alt="LinkedIn"
     />
   </a>
+  <a href="https://mubashirjamali.glitch.me">
+    <img
+      src="https://img.shields.io/static/v1?logo=internet-explorer&style=flat-square&color=0072b1&label=Blog&message=mubashirjamali.glitch.me"
+      alt="IE icon"
+    />
+  </a>
 
-  <a href="https://app.daily.dev/mubashirjamali"><img src="https://github.com/mubashirjamali101/mubashirjamali101/blob/main/devcard.svg" width="400" alt="Mubashir Jamali's Dev Card"/></a>
+  <a href="https://app.daily.dev/mubashirjamali"><img align="right" src="https://github.com/mubashirjamali101/mubashirjamali101/blob/main/devcard.svg" width="256" alt="Mubashir Jamali's Dev Card"/></a>
 </div>
 
-- 🔭 I’m currently working Fullstack with Nextjs and MariaDB
-- 🌱 I’m currently learning _safe_ Authentication, and Authorization.
-- 🤔 I’m looking for help with _safest_ way of authenticating and authorizing humans.
+## I am Mubashir
+
+- 🔭 currently working Fullstack with Nextjs and MariaDB
+- 🌱 currently learning _safe_ Authentication, and Authorization.
+- 🤔 looking for help with _safest_ way of authenticating and authorizing humans.
 - 💬 Ask me about anything related to Software Engineering, Programming, Ethics of Clean Code, Manners of programming, and Javascript.
 - 📫 How to reach me: mubashirjamali101@gmail.com
 - 😄 Pronouns: He/Him
