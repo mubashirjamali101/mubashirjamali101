@@ -25,8 +25,8 @@
 
 ## I am Mubashir
 
-- 🔭 currently working Fullstack with Nextjs and MariaDB
-- 🌱 currently learning _safe_ Authentication, and Authorization.
+- 🔭 currently working Fullstack Javascript
+- 🌱 learning _safe_ Authentication, and Authorization.
 - 🤔 looking for help with _safest_ way of authenticating and authorizing humans.
 - 💬 Ask me about anything related to Software Engineering, Programming, Ethics of Clean Code, Manners of programming, and Javascript.
 - 📫 How to reach me: mubashirjamali101@gmail.com
