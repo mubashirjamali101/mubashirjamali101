@@ -25,7 +25,8 @@
 
 ## I am Mubashir
 
-- 🔭 currently working Fullstack Javascript
+- 🔭 currently working full-stack with Javascript
+- 🔖 planning to learn Go/Rust
 - 🌱 learning _safe_ Authentication, and Authorization.
 - 🤔 looking for help with _safest_ way of authenticating and authorizing humans.
 - 💬 Ask me about anything related to Software Engineering, Programming, Ethics of Clean Code, Manners of programming, and Javascript.
