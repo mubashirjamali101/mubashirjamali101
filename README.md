@@ -25,12 +25,11 @@
 
 ## I am Mubashir
 
-- 🔭 currently learning Python
-- 🔖 planning to learn AI | ML | Data Science
-- 💬 Ask me about anything related to Software Engineering, Programming, Ethics of Clean Code, Manners of programming, Python and Javascript.
+- 🔭 Currently learning Python
+- 🔖 Planning to learn AI | ML | Data Science
+- 💬 Ask me about anything related to [`Software Engineering`, `Programming`, `Clean Code`, `Python`, `Javascript`].
 - 📫 How to reach me: mubashirjamali101@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Clean code is important than due dates.
+- ⚡  Fun-Fact: Clean code is important than due dates.
 
 I also write at my blog [Mubashir Jamali](https://mubashirjamali.glitch.me)
-A (almost) weekly dose for software engineers.
