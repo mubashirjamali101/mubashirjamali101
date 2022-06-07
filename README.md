@@ -32,4 +32,13 @@
 - 😄 Pronouns: He/Him
 - ⚡  Fun-Fact: Clean code is important than due dates.
 
-I also write at my blog [Mubashir Jamali](https://mubashirjamali.glitch.me)
+## Tech Stack
+
+- JavaScript
+- Python
+- HTML/CSS
+- Bootstrap/TailwindCSS/SCSS/Bulma/Mantine
+- Reactjs/Vuejs/Nextjs/Nuxtjs
+- Expressjs/Django
+- MySQL/MariaDB/PostgreSQL
+- Git/Docker/Linux/Bash
