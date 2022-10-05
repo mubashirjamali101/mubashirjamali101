@@ -25,9 +25,9 @@
 
 ## I am Mubashir
 
-- 🔭 Currently learning Python
-- 🔖 Planning to learn AI | ML | Data Science
-- 💬 Ask me about anything related to [`Software Engineering`, `Programming`, `Clean Code`, `Python`, `Javascript`].
+- 🔭 Currently learning Full Stack Development
+- 🔖 Planning to learn Cloud Development
+- 💬 Ask me about anything related to [`Software Engineering`, `Programming`, `Clean Code`, `Cloud`, `Javascript`].
 - 📫 How to reach me: mubashirjamali101@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡  Fun-Fact: Clean code is important than due dates.
@@ -38,7 +38,7 @@
 - Python
 - HTML/CSS
 - Bootstrap/TailwindCSS/SCSS/Bulma/Mantine
-- Reactjs/Vuejs/Nextjs/Nuxtjs
+- Reactjs/Nextjs
 - Expressjs/Django
-- MySQL/MariaDB/PostgreSQL
+- MySQL/MariaDB
 - Git/Docker/Linux/Bash
