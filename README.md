@@ -25,20 +25,19 @@
 
 ## I am Mubashir
 
-- 🔭 Currently learning Full Stack Development
-- 🔖 Planning to learn Cloud Development
-- 💬 Ask me about anything related to [`Software Engineering`, `Programming`, `Clean Code`, `Cloud`, `Javascript`].
-- 📫 How to reach me: mubashirjamali101@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡  Fun-Fact: Clean code is important than due dates.
+- 🔭 Currently learning the Go and Kafka.
+- 🔖 Planning to learn RUST.
+- 💬 Ask me about anything related to [`Software Engineering`, `Programming`, `Clean Code`, `Cloud Computing`, `Javascript`, `Go`].
+- ⚡  Fun-Fact: Clean code is more important than due dates.
 
 ## Tech Stack
 
-- JavaScript
+- Go/Gin/Kafka
+- JavaScript/TypeScript
 - Python
 - HTML/CSS
 - Bootstrap/TailwindCSS/SCSS/Bulma/Mantine
 - Reactjs/Nextjs
 - Expressjs/Django
-- MySQL/MariaDB
+- Postgres/MongoDB/Cassandra DB
 - Git/Docker/Linux/Bash
