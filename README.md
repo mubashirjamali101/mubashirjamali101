@@ -27,17 +27,17 @@
 
 - 🔭 Currently learning the Go and Kafka.
 - 🔖 Planning to learn RUST.
-- 💬 Ask me about anything related to [`Software Engineering`, `Programming`, `Clean Code`, `Cloud Computing`, `Javascript`, `Go`].
-- ⚡  Fun-Fact: Clean code is more important than due dates.
+- 💬 Ask me about anything related to [`Software Engineering`, `Programming`, `Clean Code`, `Cloud Computing`, `Javascript`, `Go`, `Python`].
+- ⚡ Fun-Fact: Clean code is more important than due dates.
 
 ## Tech Stack
 
-- Go/Gin/Kafka
 - JavaScript/TypeScript
 - Python
+- Go/Gin/Kafka
 - HTML/CSS
 - Bootstrap/TailwindCSS/SCSS/Bulma/Mantine
 - Reactjs/Nextjs
 - Expressjs/Django
-- Postgres/MongoDB/Cassandra DB
+- Postgres/MongoDB
 - Git/Docker/Linux/Bash
