@@ -23,21 +23,21 @@
   <a href="https://app.daily.dev/mubashirjamali"><img align="right" src="https://github.com/mubashirjamali101/mubashirjamali101/blob/main/devcard.svg" width="256" alt="Mubashir Jamali's Dev Card"/></a>
 </div>
 
-## I am Mubashir
+## I am Mubashir Jamali
 
-- 🔭 Currently learning the Go and Kafka.
-- 🔖 Planning to learn RUST.
-- 💬 Ask me about anything related to [`Software Engineering`, `Programming`, `Clean Code`, `Cloud Computing`, `Javascript`, `Go`, `Python`].
-- ⚡ Fun-Fact: Clean code is more important than due dates.
+- 🔭 Currently mastering Polyglot Programming in TS, Go, and Rust.
+- 🔖 Planning to learn Apache Kafka.
+- 💬 Ask me about anything related to [`Software Engineering`, `Programming`, `Clean Code`, `Cloud Computing`, `JS/TS`, `Python`, `Go`, `Rust`].
+- ⚡ Fact: Clean code is more important than due dates.
 
 ## Tech Stack
 
-- JavaScript/TypeScript
-- Python
-- Go/Gin/Kafka
+- TypeScript/Express
+- Python/Django/Scripting
+- Go
+- Rust
 - HTML/CSS
-- Bootstrap/TailwindCSS/SCSS/Bulma/Mantine
-- Reactjs/Nextjs
-- Expressjs/Django
-- Postgres/MongoDB
-- Git/Docker/Linux/Bash
+- Bootstrap/TailwindCSS/...any other js/css style library
+- Reactjs/Nextjs/... any other js ui library
+- Postgres/MySQL/MongoDB
+- Git/Docker/Docker-Compose/Linux/Bash
