@@ -32,7 +32,7 @@
 
 ## Tech Stack
 
-- TypeScript/Express
+- NestJS/TypeScript/Express (CQRS)
 - Python/Django/Scripting
 - Go
 - Rust
@@ -41,3 +41,5 @@
 - Reactjs/Nextjs/... any other js ui library
 - Postgres/MySQL/MongoDB
 - Git/Docker/Docker-Compose/Linux/Bash
+- AWS/GCP
+- OpenAI/Anthropic/Groq/Gemini Integration
